@@ -1,2 +1,0 @@
-SHOW DATABASESsys_config
-
