@@ -1,0 +1,5 @@
+Hello,welcome to the AI_ML Python practice
+ Here is my File_handling Notes
+ This is a sample txt doc
+Adding content using append
+Using r+ operation
